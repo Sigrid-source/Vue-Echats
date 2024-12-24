@@ -5,7 +5,8 @@
 # 源目录结构
 ![image](https://github.com/user-attachments/assets/c3135ced-ed8c-4ab3-9232-c4beafba57d9)
 # 源码获取方式
-加V获取7:00-12：00在线，秒通过
+加V获取7:00-12：00在线，秒通过 【请备注来意】
+
 ![image](https://github.com/user-attachments/assets/666d6479-2117-4834-a4d4-9edb94fe52eb)
 
 # 项目运行
